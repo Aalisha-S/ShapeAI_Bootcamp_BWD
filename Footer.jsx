@@ -2,7 +2,7 @@ import React from "react";
 function Footer(){
   return (
     <footer>
-      <p>Copyright by shapeAI @ {new Date().getFullYear()}</p>
+      <p>Copyright by shapeAI @ {new Date().getFullYear()} </p>
     </footer>
   );
 }
