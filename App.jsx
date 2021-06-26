@@ -3,7 +3,7 @@ import Header from "./Header";
 import Footer from "./Footer";
 import Info from "./Info";
 
-function App() {
+function App(){
   return (
     <div>
       <Header />
@@ -15,5 +15,4 @@ function App() {
     </div> 
   );
 }
-
 export default App;
